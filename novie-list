@@ -28,9 +28,7 @@
     "genre": "Action, Sci-Fi",
     "poster": "https://example.com/matrix3.jpg",
     "year": 2003
-  }
-]
-[
+  },
   {
     "serial_number": 4,
     "name": "Batman Begins",
@@ -60,9 +58,7 @@
     "genre": "Action, Thriller",
     "poster": "https://example.com/batman3.jpg",
     "year": 2012
-  }
-]
-[
+  },
   {
     "serial_number": 7,
     "name": "Star Wars: Episode IV - A New Hope",
@@ -85,8 +81,14 @@
   },
   {
     "serial_number": 9,
-    "name": "Star Wars
-[
+     "name": "Star Wars: Episode VI - Return of the Jedi",
+    "length": "2h 11m",
+    "director": "Richard Marquand",
+    "country": "United States",
+    "genre": "Action, Adventure, Sci-Fi",
+    "poster": "https://example.com/starwars3.jpg"
+
+  },
   {
     "serial_number": 10,
     "name": "Die Hard",
@@ -116,9 +118,7 @@
     "genre": "Action, Thriller",
     "poster": "https://example.com/diehard3.jpg",
     "year": 1995
-  }
-]
-[
+  },
   {
     "serial_number": 13,
     "name": "Back to the Future",
@@ -148,9 +148,7 @@
     "genre": "Adventure, Comedy, Sci-Fi",
     "poster": "https://example.com/bttf3.jpg",
     "year": 1990
-  }
-]
-[
+  },
   {
     "serial_number": 16,
     "name": "Toy Story",
@@ -180,9 +178,7 @@
     "genre": "Animation, Adventure, Comedy",
     "poster": "https://example.com/toystory3.jpg",
     "year": 2010
-  }
-]
-[
+  },
   {
     "serial_number": 19,
     "name": "The Godfather",
@@ -212,9 +208,7 @@
     "genre": "Crime, Drama",
     "poster": "https://example.com/godfather3.jpg",
     "year": 1990
-  }
-]
-[
+  },
   {
     "serial_number": 22,
     "name": "The Hunger Games",
@@ -237,9 +231,14 @@
   },
   {
     "serial_number": 24,
-    "name": "The Hunger Games: Mockingjay - Part 1",
-    "
-    [
+    "name": "The Hunger Games: Mockingjay – Part 1",
+    "length": "2h 3m",
+    "director": "Francis Lawrence",
+    "country": "United States",
+    "genre": "Adventure, Sci-Fi",
+    "poster": "https://example.com/hunger-games-mockingjay-part-1.jpg",
+    "year": 2014
+   }, 
   {
     "serial_number": 25,
     "name": "Three Colors: Blue",
@@ -269,9 +268,7 @@
     "genre": "Drama, Mystery, Romance",
     "poster": "https://example.com/red.jpg",
     "year": 1994
-  }
-]
-[
+  },
   {
     "serial_number": 28,
     "name": "The Bourne Identity",
@@ -301,9 +298,7 @@
     "genre": "Action, Mystery, Thriller",
     "poster": "https://example.com/bourne-ultimatum.jpg",
     "year": 2007
-  }
-]
-[
+  },
   {
     "serial_number": 31,
     "name": "Austin Powers: International Man of Mystery",
@@ -333,9 +328,7 @@
     "genre": "Comedy, Action, Crime",
     "poster": "https://example.com/austin-powers-in-goldmember.jpg",
     "year": 2002
-  }
-]
-[
+  },
   {
     "serial_number": 34,
     "name": "The Mighty Ducks",
@@ -365,9 +358,7 @@
     "genre": "Comedy, Drama, Family",
     "poster": "https://example.com/d3-the-mighty-ducks.jpg",
     "year": 1996
-  }
-]
-[
+  },
   {
     "serial_number": 37,
     "name": "A Fistful of Dollars",
@@ -397,9 +388,7 @@
     "genre": "Western",
     "poster": "https://example.com/the-good-the-bad-and-the-ugly.jpg",
     "year": 1966
-  }
-]
-[
+  },
   {
     "serial_number": 40,
     "name": "Raiders of the Lost Ark",
@@ -429,9 +418,7 @@
     "genre": "Action, Adventure",
     "poster": "https://example.com/indiana-jones-and-the-last-crusade.jpg",
     "year": 1989
-  }
-]
-[
+  },
   {
     "serial_number": 43,
     "name": "Cars",
