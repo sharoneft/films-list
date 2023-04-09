@@ -1,0 +1,467 @@
+[
+  {
+    "serial_number": 1,
+    "name": "The Matrix",
+    "length": "2h 16m",
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "country": "United States",
+    "genre": "Action, Sci-Fi",
+    "poster": "https://example.com/matrix1.jpg",
+    "year": 1999
+  },
+  {
+    "serial_number": 2,
+    "name": "The Matrix Reloaded",
+    "length": "2h 18m",
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "country": "United States",
+    "genre": "Action, Sci-Fi",
+    "poster": "https://example.com/matrix2.jpg",
+    "year": 2003
+  },
+  {
+    "serial_number": 3,
+    "name": "The Matrix Revolutions",
+    "length": "2h 9m",
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "country": "United States",
+    "genre": "Action, Sci-Fi",
+    "poster": "https://example.com/matrix3.jpg",
+    "year": 2003
+  }
+]
+[
+  {
+    "serial_number": 4,
+    "name": "Batman Begins",
+    "length": "2h 20m",
+    "director": "Christopher Nolan",
+    "country": "United States",
+    "genre": "Action, Adventure",
+    "poster": "https://example.com/batman1.jpg",
+    "year": 2005
+  },
+  {
+    "serial_number": 5,
+    "name": "The Dark Knight",
+    "length": "2h 32m",
+    "director": "Christopher Nolan",
+    "country": "United States",
+    "genre": "Action, Crime",
+    "poster": "https://example.com/batman2.jpg",
+    "year": 2008
+  },
+  {
+    "serial_number": 6,
+    "name": "The Dark Knight Rises",
+    "length": "2h 45m",
+    "director": "Christopher Nolan",
+    "country": "United States",
+    "genre": "Action, Thriller",
+    "poster": "https://example.com/batman3.jpg",
+    "year": 2012
+  }
+]
+[
+  {
+    "serial_number": 7,
+    "name": "Star Wars: Episode IV - A New Hope",
+    "length": "2h 1m",
+    "director": "George Lucas",
+    "country": "United States",
+    "genre": "Action, Adventure, Sci-Fi",
+    "poster": "https://example.com/starwars1.jpg",
+    "year": 1977
+  },
+  {
+    "serial_number": 8,
+    "name": "Star Wars: Episode V - The Empire Strikes Back",
+    "length": "2h 4m",
+    "director": "Irvin Kershner",
+    "country": "United States",
+    "genre": "Action, Adventure, Sci-Fi",
+    "poster": "https://example.com/starwars2.jpg",
+    "year": 1980
+  },
+  {
+    "serial_number": 9,
+    "name": "Star Wars
+[
+  {
+    "serial_number": 10,
+    "name": "Die Hard",
+    "length": "2h 12m",
+    "director": "John McTiernan",
+    "country": "United States",
+    "genre": "Action, Thriller",
+    "poster": "https://example.com/diehard1.jpg",
+    "year": 1988
+  },
+  {
+    "serial_number": 11,
+    "name": "Die Hard 2",
+    "length": "2h 4m",
+    "director": "Renny Harlin",
+    "country": "United States",
+    "genre": "Action, Thriller",
+    "poster": "https://example.com/diehard2.jpg",
+    "year": 1990
+  },
+  {
+    "serial_number": 12,
+    "name": "Die Hard with a Vengeance",
+    "length": "2h 11m",
+    "director": "John McTiernan",
+    "country": "United States",
+    "genre": "Action, Thriller",
+    "poster": "https://example.com/diehard3.jpg",
+    "year": 1995
+  }
+]
+[
+  {
+    "serial_number": 13,
+    "name": "Back to the Future",
+    "length": "1h 56m",
+    "director": "Robert Zemeckis",
+    "country": "United States",
+    "genre": "Adventure, Comedy, Sci-Fi",
+    "poster": "https://example.com/bttf1.jpg",
+    "year": 1985
+  },
+  {
+    "serial_number": 14,
+    "name": "Back to the Future Part II",
+    "length": "1h 48m",
+    "director": "Robert Zemeckis",
+    "country": "United States",
+    "genre": "Adventure, Comedy, Sci-Fi",
+    "poster": "https://example.com/bttf2.jpg",
+    "year": 1989
+  },
+  {
+    "serial_number": 15,
+    "name": "Back to the Future Part III",
+    "length": "1h 59m",
+    "director": "Robert Zemeckis",
+    "country": "United States",
+    "genre": "Adventure, Comedy, Sci-Fi",
+    "poster": "https://example.com/bttf3.jpg",
+    "year": 1990
+  }
+]
+[
+  {
+    "serial_number": 16,
+    "name": "Toy Story",
+    "length": "1h 21m",
+    "director": "John Lasseter",
+    "country": "United States",
+    "genre": "Animation, Adventure, Comedy",
+    "poster": "https://example.com/toystory1.jpg",
+    "year": 1995
+  },
+  {
+    "serial_number": 17,
+    "name": "Toy Story 2",
+    "length": "1h 32m",
+    "director": "John Lasseter",
+    "country": "United States",
+    "genre": "Animation, Adventure, Comedy",
+    "poster": "https://example.com/toystory2.jpg",
+    "year": 1999
+  },
+  {
+    "serial_number": 18,
+    "name": "Toy Story 3",
+    "length": "1h 43m",
+    "director": "Lee Unkrich",
+    "country": "United States",
+    "genre": "Animation, Adventure, Comedy",
+    "poster": "https://example.com/toystory3.jpg",
+    "year": 2010
+  }
+]
+[
+  {
+    "serial_number": 19,
+    "name": "The Godfather",
+    "length": "2h 55m",
+    "director": "Francis Ford Coppola",
+    "country": "United States",
+    "genre": "Crime, Drama",
+    "poster": "https://example.com/godfather1.jpg",
+    "year": 1972
+  },
+  {
+    "serial_number": 20,
+    "name": "The Godfather Part II",
+    "length": "3h 22m",
+    "director": "Francis Ford Coppola",
+    "country": "United States",
+    "genre": "Crime, Drama",
+    "poster": "https://example.com/godfather2.jpg",
+    "year": 1974
+  },
+  {
+    "serial_number": 21,
+    "name": "The Godfather Part III",
+    "length": "2h 42m",
+    "director": "Francis Ford Coppola",
+    "country": "United States",
+    "genre": "Crime, Drama",
+    "poster": "https://example.com/godfather3.jpg",
+    "year": 1990
+  }
+]
+[
+  {
+    "serial_number": 22,
+    "name": "The Hunger Games",
+    "length": "2h 22m",
+    "director": "Gary Ross",
+    "country": "United States",
+    "genre": "Action, Adventure, Sci-Fi",
+    "poster": "https://example.com/hungergames1.jpg",
+    "year": 2012
+  },
+  {
+    "serial_number": 23,
+    "name": "The Hunger Games: Catching Fire",
+    "length": "2h 26m",
+    "director": "Francis Lawrence",
+    "country": "United States",
+    "genre": "Action, Adventure, Sci-Fi",
+    "poster": "https://example.com/hungergames2.jpg",
+    "year": 2013
+  },
+  {
+    "serial_number": 24,
+    "name": "The Hunger Games: Mockingjay - Part 1",
+    "
+    [
+  {
+    "serial_number": 25,
+    "name": "Three Colors: Blue",
+    "length": "1h 38m",
+    "director": "Krzysztof Kieślowski",
+    "country": "France",
+    "genre": "Drama, Music, Mystery",
+    "poster": "https://example.com/blue.jpg",
+    "year": 1993
+  },
+  {
+    "serial_number": 26,
+    "name": "Three Colors: White",
+    "length": "1h 32m",
+    "director": "Krzysztof Kieślowski",
+    "country": "France",
+    "genre": "Comedy, Drama",
+    "poster": "https://example.com/white.jpg",
+    "year": 1994
+  },
+  {
+    "serial_number": 27,
+    "name": "Three Colors: Red",
+    "length": "1h 39m",
+    "director": "Krzysztof Kieślowski",
+    "country": "France",
+    "genre": "Drama, Mystery, Romance",
+    "poster": "https://example.com/red.jpg",
+    "year": 1994
+  }
+]
+[
+  {
+    "serial_number": 28,
+    "name": "The Bourne Identity",
+    "length": "1h 59m",
+    "director": "Doug Liman",
+    "country": "USA",
+    "genre": "Action, Mystery, Thriller",
+    "poster": "https://example.com/bourne-identity.jpg",
+    "year": 2002
+  },
+  {
+    "serial_number": 29,
+    "name": "The Bourne Supremacy",
+    "length": "1h 48m",
+    "director": "Paul Greengrass",
+    "country": "USA",
+    "genre": "Action, Mystery, Thriller",
+    "poster": "https://example.com/bourne-supremacy.jpg",
+    "year": 2004
+  },
+  {
+    "serial_number": 30,
+    "name": "The Bourne Ultimatum",
+    "length": "1h 55m",
+    "director": "Paul Greengrass",
+    "country": "USA",
+    "genre": "Action, Mystery, Thriller",
+    "poster": "https://example.com/bourne-ultimatum.jpg",
+    "year": 2007
+  }
+]
+[
+  {
+    "serial_number": 31,
+    "name": "Austin Powers: International Man of Mystery",
+    "length": "1h 34m",
+    "director": "Jay Roach",
+    "country": "United States, Germany",
+    "genre": "Comedy",
+    "poster": "https://example.com/austin-powers-international-man-of-mystery.jpg",
+    "year": 1997
+  },
+  {
+    "serial_number": 32,
+    "name": "Austin Powers: The Spy Who Shagged Me",
+    "length": "1h 35m",
+    "director": "Jay Roach",
+    "country": "United States",
+    "genre": "Comedy, Action, Adventure",
+    "poster": "https://example.com/austin-powers-the-spy-who-shagged-me.jpg",
+    "year": 1999
+  },
+  {
+    "serial_number": 33,
+    "name": "Austin Powers in Goldmember",
+    "length": "1h 34m",
+    "director": "Jay Roach",
+    "country": "United States",
+    "genre": "Comedy, Action, Crime",
+    "poster": "https://example.com/austin-powers-in-goldmember.jpg",
+    "year": 2002
+  }
+]
+[
+  {
+    "serial_number": 34,
+    "name": "The Mighty Ducks",
+    "length": "1h 44m",
+    "director": "Stephen Herek",
+    "country": "United States",
+    "genre": "Comedy, Drama, Family",
+    "poster": "https://example.com/the-mighty-ducks.jpg",
+    "year": 1992
+  },
+  {
+    "serial_number": 35,
+    "name": "D2: The Mighty Ducks",
+    "length": "1h 46m",
+    "director": "Sam Weisman",
+    "country": "United States",
+    "genre": "Comedy, Drama, Family",
+    "poster": "https://example.com/d2-the-mighty-ducks.jpg",
+    "year": 1994
+  },
+  {
+    "serial_number": 36,
+    "name": "D3: The Mighty Ducks",
+    "length": "1h 44m",
+    "director": "Robert Lieberman",
+    "country": "United States",
+    "genre": "Comedy, Drama, Family",
+    "poster": "https://example.com/d3-the-mighty-ducks.jpg",
+    "year": 1996
+  }
+]
+[
+  {
+    "serial_number": 37,
+    "name": "A Fistful of Dollars",
+    "length": "1h 39m",
+    "director": "Sergio Leone",
+    "country": "Italy, Spain, West Germany",
+    "genre": "Western",
+    "poster": "https://example.com/a-fistful-of-dollars.jpg",
+    "year": 1964
+  },
+  {
+    "serial_number": 38,
+    "name": "For a Few Dollars More",
+    "length": "2h 12m",
+    "director": "Sergio Leone",
+    "country": "Italy, Spain, West Germany",
+    "genre": "Western",
+    "poster": "https://example.com/for-a-few-dollars-more.jpg",
+    "year": 1965
+  },
+  {
+    "serial_number": 39,
+    "name": "The Good, the Bad and the Ugly",
+    "length": "2h 58m",
+    "director": "Sergio Leone",
+    "country": "Italy, Spain, West Germany",
+    "genre": "Western",
+    "poster": "https://example.com/the-good-the-bad-and-the-ugly.jpg",
+    "year": 1966
+  }
+]
+[
+  {
+    "serial_number": 40,
+    "name": "Raiders of the Lost Ark",
+    "length": "1h 55m",
+    "director": "Steven Spielberg",
+    "country": "United States",
+    "genre": "Action, Adventure",
+    "poster": "https://example.com/raiders-of-the-lost-ark.jpg",
+    "year": 1981
+  },
+  {
+    "serial_number": 41,
+    "name": "Indiana Jones and the Temple of Doom",
+    "length": "1h 58m",
+    "director": "Steven Spielberg",
+    "country": "United States",
+    "genre": "Action, Adventure",
+    "poster": "https://example.com/indiana-jones-and-the-temple-of-doom.jpg",
+    "year": 1984
+  },
+  {
+    "serial_number": 42,
+    "name": "Indiana Jones and the Last Crusade",
+    "length": "2h 7m",
+    "director": "Steven Spielberg",
+    "country": "United States",
+    "genre": "Action, Adventure",
+    "poster": "https://example.com/indiana-jones-and-the-last-crusade.jpg",
+    "year": 1989
+  }
+]
+[
+  {
+    "serial_number": 43,
+    "name": "Cars",
+    "length": "1h 57m",
+    "director": "John Lasseter",
+    "country": "United States",
+    "genre": "Animation, Adventure, Comedy",
+    "poster": "https://example.com/cars.jpg",
+    "year": 2006
+  },
+  {
+    "serial_number": 44,
+    "name": "Cars 2",
+    "length": "1h 46m",
+    "director": "John Lasseter",
+    "country": "United States",
+    "genre": "Animation, Adventure, Comedy",
+    "poster": "https://example.com/cars-2.jpg",
+    "year": 2011
+  },
+  {
+    "serial_number": 45,
+    "name": "Cars 3",
+    "length": "1h 42m",
+    "director": "Brian Fee",
+    "country": "United States",
+    "genre": "Animation, Adventure, Comedy",
+    "poster": "https://example.com/cars-3.jpg",
+    "year": 2017
+  }
+]
+
+
