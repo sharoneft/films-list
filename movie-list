@@ -12,7 +12,7 @@
   },
   {
     "serial_number": 2,
-    group": "The Matrix ",
+    "group": "The Matrix ",
     "name": "The Matrix Reloaded",
     "length": "2h 18m",
     "director": "Lana Wachowski, Lilly Wachowski",
@@ -23,7 +23,7 @@
   },
   {
     "serial_number": 3,
-    group": "The Matrix ",
+    "group": "The Matrix ",
     "name": "The Matrix Revolutions",
     "length": "2h 9m",
     "director": "Lana Wachowski, Lilly Wachowski",
@@ -34,7 +34,7 @@
   },
   {
     "serial_number": 4,
-    group": "The Dark Knight ",
+    "group": "The Dark Knight ",
     "name": "Batman Begins",
     "length": "2h 20m",
     "director": "Christopher Nolan",
@@ -45,7 +45,7 @@
   },
   {
     "serial_number": 5,
-    group": "The Dark Knight ",
+    "group": "The Dark Knight ",
     "name": "The Dark Knight",
     "length": "2h 32m",
     "director": "Christopher Nolan",
@@ -56,7 +56,7 @@
   },
   {
     "serial_number": 6,
-    group": "The Dark Knight ",
+    "group": "The Dark Knight ",
     "name": "The Dark Knight Rises",
     "length": "2h 45m",
     "director": "Christopher Nolan",
@@ -67,7 +67,7 @@
   },
   {
     "serial_number": 7,
-    group": "Star Wars ",
+    "group": "Star Wars ",
     "name": "Star Wars: Episode IV - A New Hope",
     "length": "2h 1m",
     "director": "George Lucas",
@@ -78,7 +78,7 @@
   },
   {
     "serial_number": 8,
-    group": "Star Wars ",
+    "group": "Star Wars ",
     "name": "Star Wars: Episode V - The Empire Strikes Back",
     "length": "2h 4m",
     "director": "Irvin Kershner",
@@ -89,7 +89,7 @@
   },
   {
     "serial_number": 9,
-    group": "Star Wars ",
+    "group": "Star Wars ",
      "name": "Star Wars: Episode VI - Return of the Jedi",
     "length": "2h 11m",
     "director": "Richard Marquand",
@@ -100,7 +100,7 @@
   },
   {
     "serial_number": 10,
-    group": "Die Hard ",
+    "group": "Die Hard ",
     "name": "Die Hard",
     "length": "2h 12m",
     "director": "John McTiernan",
@@ -111,7 +111,7 @@
   },
   {
     "serial_number": 11,
-    group": "Die Hard ",
+    "group": "Die Hard ",
     "name": "Die Hard 2",
     "length": "2h 4m",
     "director": "Renny Harlin",
@@ -122,7 +122,7 @@
   },
   {
     "serial_number": 12,
-    group": "Die Hard ",
+    "group": "Die Hard ",
     "name": "Die Hard with a Vengeance",
     "length": "2h 11m",
     "director": "John McTiernan",
@@ -133,7 +133,7 @@
   },
   {
     "serial_number": 13,
-    group": "Back to the Future ",
+    "group": "Back to the Future ",
     "name": "Back to the Future",
     "length": "1h 56m",
     "director": "Robert Zemeckis",
@@ -144,7 +144,7 @@
   },
   {
     "serial_number": 14,
-    group": "Back to the Future ",
+    "group": "Back to the Future ",
     "name": "Back to the Future Part II",
     "length": "1h 48m",
     "director": "Robert Zemeckis",
@@ -155,7 +155,7 @@
   },
   {
     "serial_number": 15,
-    group": "Back to the Future ",
+    "group": "Back to the Future ",
     "name": "Back to the Future Part III",
     "length": "1h 59m",
     "director": "Robert Zemeckis",
@@ -166,7 +166,7 @@
   },
   {
     "serial_number": 16,
-    group": "Toy Story ",
+    "group": "Toy Story ",
     "name": "Toy Story",
     "length": "1h 21m",
     "director": "John Lasseter",
@@ -177,7 +177,7 @@
   },
   {
     "serial_number": 17,
-    group": "Toy Story ",
+    "group": "Toy Story ",
     "name": "Toy Story 2",
     "length": "1h 32m",
     "director": "John Lasseter",
@@ -188,7 +188,7 @@
   },
   {
     "serial_number": 18,
-    group": "Toy Story ",
+    "group": "Toy Story ",
     "name": "Toy Story 3",
     "length": "1h 43m",
     "director": "Lee Unkrich",
@@ -199,7 +199,7 @@
   },
   {
     "serial_number": 19,
-    group": "The Godfather ",
+    "group": "The Godfather ",
     "name": "The Godfather",
     "length": "2h 55m",
     "director": "Francis Ford Coppola",
@@ -210,7 +210,7 @@
   },
   {
     "serial_number": 20,
-    group": "The Godfather ",
+    "group": "The Godfather ",
     "name": "The Godfather Part II",
     "length": "3h 22m",
     "director": "Francis Ford Coppola",
@@ -221,7 +221,7 @@
   },
   {
     "serial_number": 21,
-    group": "The Godfather ",
+    "group": "The Godfather ",
     "name": "The Godfather Part III",
     "length": "2h 42m",
     "director": "Francis Ford Coppola",
@@ -232,7 +232,7 @@
   },
   {
     "serial_number": 22,
-    group": "The Hunger Games ",
+    "group": "The Hunger Games ",
     "name": "The Hunger Games",
     "length": "2h 22m",
     "director": "Gary Ross",
@@ -243,7 +243,7 @@
   },
   {
     "serial_number": 23,
-    group": "The Hunger Games ",
+    "group": "The Hunger Games ",
     "name": "The Hunger Games: Catching Fire",
     "length": "2h 26m",
     "director": "Francis Lawrence",
@@ -254,7 +254,7 @@
   },
   {
     "serial_number": 24,
-    group": "The Hunger Games ",
+    "group": "The Hunger Games ",
     "name": "The Hunger Games: Mockingjay – Part 1",
     "length": "2h 3m",
     "director": "Francis Lawrence",
@@ -265,7 +265,7 @@
    }, 
   {
     "serial_number": 25,
-    group": "Three Colors ",
+    "group": "Three Colors ",
     "name": "Three Colors: Blue",
     "length": "1h 38m",
     "director": "Krzysztof Kieślowski",
@@ -276,7 +276,7 @@
   },
   {
     "serial_number": 26,
-    group": "Three Colors ",
+    "group": "Three Colors ",
     "name": "Three Colors: White",
     "length": "1h 32m",
     "director": "Krzysztof Kieślowski",
@@ -287,7 +287,7 @@
   },
   {
     "serial_number": 27,
-    group": "Three Colors ",
+    "group": "Three Colors ",
     "name": "Three Colors: Red",
     "length": "1h 39m",
     "director": "Krzysztof Kieślowski",
@@ -298,7 +298,7 @@
   },
   {
     "serial_number": 28,
-    group": "The Bourne ",
+    "group": "The Bourne ",
     "name": "The Bourne Identity",
     "length": "1h 59m",
     "director": "Doug Liman",
@@ -309,7 +309,7 @@
   },
   {
     "serial_number": 29,
-    group": "The Bourne ",
+    "group": "The Bourne ",
     "name": "The Bourne Supremacy",
     "length": "1h 48m",
     "director": "Paul Greengrass",
@@ -320,7 +320,7 @@
   },
   {
     "serial_number": 30,
-    group": "The Bourne ",
+    "group": "The Bourne ",
     "name": "The Bourne Ultimatum",
     "length": "1h 55m",
     "director": "Paul Greengrass",
@@ -331,7 +331,7 @@
   },
   {
     "serial_number": 31,
-    group": "Austin Powers",
+    "group": "Austin Powers",
     "name": "Austin Powers: International Man of Mystery",
     "length": "1h 34m",
     "director": "Jay Roach",
@@ -342,7 +342,7 @@
   },
   {
     "serial_number": 32,
-    group": "Austin Powers ",
+    "group": "Austin Powers ",
     "name": "Austin Powers: The Spy Who Shagged Me",
     "length": "1h 35m",
     "director": "Jay Roach",
@@ -353,7 +353,7 @@
   },
   {
     "serial_number": 33,
-    group": "Austin Powers ",
+    "group": "Austin Powers ",
     "name": "Austin Powers in Goldmember",
     "length": "1h 34m",
     "director": "Jay Roach",
@@ -364,7 +364,7 @@
   },
   {
     "serial_number": 34,
-    group": "he Mighty Ducks ",
+    "group": "he Mighty Ducks ",
     "name": "The Mighty Ducks",
     "length": "1h 44m",
     "director": "Stephen Herek",
@@ -375,7 +375,7 @@
   },
   {
     "serial_number": 35,
-    group": "he Mighty Ducks ",
+    "group": "he Mighty Ducks ",
     "name": "D2: The Mighty Ducks",
     "length": "1h 46m",
     "director": "Sam Weisman",
@@ -386,7 +386,7 @@
   },
   {
     "serial_number": 36,
-    group": "he Mighty Ducks ",
+    "group": "he Mighty Ducks ",
     "name": "D3: The Mighty Ducks",
     "length": "1h 44m",
     "director": "Robert Lieberman",
@@ -397,7 +397,7 @@
   },
   {
     "serial_number": 37,
-    group": "Man with No Name ",
+    "group": "Man with No Name ",
     "name": "A Fistful of Dollars",
     "length": "1h 39m",
     "director": "Sergio Leone",
@@ -408,7 +408,7 @@
   },
   {
     "serial_number": 38,
-    group": "Man with No Name ",
+    "group": "Man with No Name ",
     "name": "For a Few Dollars More",
     "length": "2h 12m",
     "director": "Sergio Leone",
@@ -419,7 +419,7 @@
   },
   {
     "serial_number": 39,
-    group": "Man with No Name ",
+    "group": "Man with No Name ",
     "name": "The Good, the Bad and the Ugly",
     "length": "2h 58m",
     "director": "Sergio Leone",
@@ -430,7 +430,7 @@
   },
   {
     "serial_number": 40,
-    group": "Indiana Jones ",
+    "group": "Indiana Jones ",
     "name": "Raiders of the Lost Ark",
     "length": "1h 55m",
     "director": "Steven Spielberg",
@@ -441,7 +441,7 @@
   },
   {
     "serial_number": 41,
-    group": "Indiana Jones ",
+    "group": "Indiana Jones ",
     "name": "Indiana Jones and the Temple of Doom",
     "length": "1h 58m",
     "director": "Steven Spielberg",
@@ -452,7 +452,7 @@
   },
   {
     "serial_number": 42,
-    group": "Indiana Jones ",
+    "group": "Indiana Jones ",
     "name": "Indiana Jones and the Last Crusade",
     "length": "2h 7m",
     "director": "Steven Spielberg",
@@ -463,7 +463,7 @@
   },
   {
     "serial_number": 43,
-    group": "Cars ",
+    "group": "Cars ",
     "name": "Cars",
     "length": "1h 57m",
     "director": "John Lasseter",
@@ -474,7 +474,7 @@
   },
   {
     "serial_number": 44,
-    group": "Cars ",
+    "group": "Cars ",
     "name": "Cars 2",
     "length": "1h 46m",
     "director": "John Lasseter",
@@ -485,7 +485,7 @@
   },
   {
     "serial_number": 45,
-    group": "Cars ",
+    "group": "Cars ",
     "name": "Cars 3",
     "length": "1h 42m",
     "director": "Brian Fee",
