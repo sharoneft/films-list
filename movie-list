@@ -73,7 +73,7 @@
     "director": "George Lucas",
     "country": "United States",
     "genre": "Action, Adventure, Sci-Fi",
-    "poster": "https://example.com/starwars1.jpg",
+    "poster": "https://m.media-amazon.com/images/I/81aA7hEEykL._AC_UF1000,1000_QL80_.jpg",
     "year": 1977
   },
   {
@@ -84,7 +84,7 @@
     "director": "Irvin Kershner",
     "country": "United States",
     "genre": "Action, Adventure, Sci-Fi",
-    "poster": "https://example.com/starwars2.jpg",
+    "poster": "https://m.media-amazon.com/images/I/91eOgodm4nL.jpg",
     "year": 1980
   },
   {
@@ -95,7 +95,7 @@
     "director": "Richard Marquand",
     "country": "United States",
     "genre": "Action, Adventure, Sci-Fi",
-    "poster": "https://example.com/starwars3.jpg"
+    "poster": "https://m.media-amazon.com/images/I/91LlN7J+Z9L._AC_UF894,1000_QL80_.jpg"
 
   },
   {
