@@ -238,7 +238,7 @@
     "director": "Gary Ross",
     "country": "United States",
     "genre": "Action, Adventure, Sci-Fi",
-    "poster": ""https://example.com/red.jpg",
+    "poster": "https://example.com/red.jpg",
     "year": 2012
   },
   {
@@ -249,7 +249,7 @@
     "director": "Francis Lawrence",
     "country": "United States",
     "genre": "Action, Adventure, Sci-Fi",
-    "poster": ""https://example.com/red.jpg",
+    "poster": "https://example.com/red.jpg",
     "year": 2013
   },
   {
@@ -260,7 +260,7 @@
     "director": "Francis Lawrence",
     "country": "United States",
     "genre": "Adventure, Sci-Fi",
-    "poster": ""https://example.com/red.jpg",
+    "poster": "https://example.com/red.jpg",
     "year": 2014
    }, 
   {
