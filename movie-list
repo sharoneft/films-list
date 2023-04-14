@@ -106,7 +106,7 @@
     "director": "John McTiernan",
     "country": "United States",
     "genre": "Action, Thriller",
-    "poster": "https://example.com/diehard1.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/c/ca/Die_Hard_%281988_film%29_poster.jpg",
     "year": 1988
   },
   {
@@ -117,7 +117,7 @@
     "director": "Renny Harlin",
     "country": "United States",
     "genre": "Action, Thriller",
-    "poster": "https://example.com/diehard2.jpg",
+    "poster": "https://i.ebayimg.com/images/g/CEMAAOSwjVVV3hbJ/s-l640.jpg",
     "year": 1990
   },
   {
@@ -128,7 +128,7 @@
     "director": "John McTiernan",
     "country": "United States",
     "genre": "Action, Thriller",
-    "poster": "https://example.com/diehard3.jpg",
+    "poster": "https://m.media-amazon.com/images/I/51PygwIXTIL._AC_UF894,1000_QL80_.jpg",
     "year": 1995
   },
   {
@@ -139,7 +139,7 @@
     "director": "Robert Zemeckis",
     "country": "United States",
     "genre": "Adventure, Comedy, Sci-Fi",
-    "poster": "https://example.com/bttf1.jpg",
+    "poster": "https://www.themoviedb.org/t/p/original/A3g9ZGxMEX2nKxIvwwGqu1NJSWl.jpg",
     "year": 1985
   },
   {
@@ -150,7 +150,7 @@
     "director": "Robert Zemeckis",
     "country": "United States",
     "genre": "Adventure, Comedy, Sci-Fi",
-    "poster": "https://example.com/bttf2.jpg",
+    "poster": "https://i.ebayimg.com/images/g/AgAAAOSwYoxgSlqw/s-l1600.jpg",
     "year": 1989
   },
   {
@@ -161,7 +161,7 @@
     "director": "Robert Zemeckis",
     "country": "United States",
     "genre": "Adventure, Comedy, Sci-Fi",
-    "poster": "https://example.com/bttf3.jpg",
+    "poster": "https://m.media-amazon.com/images/I/81wxiurnt-L.jpg",
     "year": 1990
   },
   {
@@ -172,7 +172,7 @@
     "director": "John Lasseter",
     "country": "United States",
     "genre": "Animation, Adventure, Comedy",
-    "poster": "https://example.com/toystory1.jpg",
+    "poster": "https://lumiere-a.akamaihd.net/v1/images/p_toystory_19639_424d94a0.jpeg",
     "year": 1995
   },
   {
@@ -183,7 +183,7 @@
     "director": "John Lasseter",
     "country": "United States",
     "genre": "Animation, Adventure, Comedy",
-    "poster": "https://example.com/toystory2.jpg",
+    "poster": "https://lumiere-a.akamaihd.net/v1/images/p_toystory2_19639_4eca9113.jpeg",
     "year": 1999
   },
   {
@@ -194,7 +194,7 @@
     "director": "Lee Unkrich",
     "country": "United States",
     "genre": "Animation, Adventure, Comedy",
-    "poster": "https://example.com/toystory3.jpg",
+    "poster": "https://lumiere-a.akamaihd.net/v1/images/p_toystory3_19639_3c584e1f.jpeg",
     "year": 2010
   },
   {
