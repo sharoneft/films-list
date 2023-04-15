@@ -271,7 +271,7 @@
     "director": "Krzysztof Kieślowski",
     "country": "France",
     "genre": "Drama, Music, Mystery",
-    "poster": "https://example.com/blue.jpg",
+    "poster": "https://media.kellermandesign.com/2016/06/Three-Colours-Blue-1993-Krzysztof-Kieslowski-onesheet-eng.jpg",
     "year": 1993
   },
   {
@@ -282,7 +282,7 @@
     "director": "Krzysztof Kieślowski",
     "country": "France",
     "genre": "Comedy, Drama",
-    "poster": "https://example.com/white.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/d/dd/White_Poster.jpg",
     "year": 1994
   },
   {
@@ -293,7 +293,7 @@
     "director": "Krzysztof Kieślowski",
     "country": "France",
     "genre": "Drama, Mystery, Romance",
-    "poster": "https://example.com/red.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/0/0a/Three_Colors-Red.jpg",
     "year": 1994
   },
   {
@@ -304,7 +304,7 @@
     "director": "Doug Liman",
     "country": "USA",
     "genre": "Action, Mystery, Thriller",
-    "poster": "https://example.com/bourne-identity.jpg",
+    "poster": "https://www.themoviedb.org/t/p/original/njQL3lYfyS4pyO8GgPzKdJVOu95.jpg",
     "year": 2002
   },
   {
@@ -315,7 +315,7 @@
     "director": "Paul Greengrass",
     "country": "USA",
     "genre": "Action, Mystery, Thriller",
-    "poster": "https://example.com/bourne-supremacy.jpg",
+    "poster": "https://i.pinimg.com/originals/e6/38/38/e63838e0716c2b294a105d055b01f034.jpg",
     "year": 2004
   },
   {
@@ -326,7 +326,7 @@
     "director": "Paul Greengrass",
     "country": "USA",
     "genre": "Action, Mystery, Thriller",
-    "poster": "https://example.com/bourne-ultimatum.jpg",
+    "poster": "https://www.themoviedb.org/t/p/original/cE2AeHO8f6HcSGQFJ04v67f6g6s.jpg",
     "year": 2007
   },
   {
