@@ -39,7 +39,7 @@
 "length": "2h 20m",
 "director": "Christopher Nolan",
 "country": "United States",
-"genre": "Action, Adventure",
+"genre": "Action",
 "poster": "https://img.fruugo.com/product/2/51/14328512_max.jpg",
 "year": 2005
 },
@@ -50,7 +50,7 @@
 "length": "2h 32m",
 "director": "Christopher Nolan",
 "country": "United States",
-"genre": "Action, Crime",
+"genre": "Action",
 "poster": "https://cdn.europosters.eu/image/1300/posters/batman-dark-knight-joker-i13945.jpg",
 "year": 2008
 },
@@ -61,7 +61,7 @@
 "length": "2h 45m",
 "director": "Christopher Nolan",
 "country": "United States",
-"genre": "Action, Thriller",
+"genre": "Action",
 "poster": "https://media.wired.com/photos/5932d503f682204f73697c96/master/w_2560%2Cc_limit/TDK_P3_1280.jpg",
 "year": 2012
 },
@@ -72,7 +72,7 @@
 "length": "2h 1m",
 "director": "George Lucas",
 "country": "United States",
-"genre": "Action, Adventure, Sci-Fi",
+"genre": "Sci-Fi",
 "poster": "https://m.media-amazon.com/images/I/81aA7hEEykL._AC_UF1000,1000_QL80_.jpg",
 "year": 1977
 },
@@ -83,7 +83,7 @@
 "length": "2h 4m",
 "director": "Irvin Kershner",
 "country": "United States",
-"genre": "Action, Adventure, Sci-Fi",
+"genre": "Sci-Fi",
 "poster": "https://m.media-amazon.com/images/I/91eOgodm4nL.jpg",
 "year": 1980
 },
@@ -94,7 +94,7 @@
 "length": "2h 11m",
 "director": "Richard Marquand",
 "country": "United States",
-"genre": "Action, Adventure, Sci-Fi",
+"genre": "Sci-Fi",
 "poster": "https://m.media-amazon.com/images/I/91LlN7J+Z9L._AC_UF894,1000_QL80_.jpg",
 "year": 1983
 },
@@ -105,7 +105,7 @@
 "length": "2h 12m",
 "director": "John McTiernan",
 "country": "United States",
-"genre": "Action, Thriller",
+"genre": "Action",
 "poster": "https://upload.wikimedia.org/wikipedia/en/c/ca/Die_Hard_%281988_film%29_poster.jpg",
 "year": 1988
 },
@@ -116,7 +116,7 @@
 "length": "2h 4m",
 "director": "Renny Harlin",
 "country": "United States",
-"genre": "Action, Thriller",
+"genre": "Action",
 "poster": "https://i.ebayimg.com/images/g/CEMAAOSwjVVV3hbJ/s-l640.jpg",
 "year": 1990
 },
@@ -127,7 +127,7 @@
 "length": "2h 11m",
 "director": "John McTiernan",
 "country": "United States",
-"genre": "Action, Thriller",
+"genre": "Action",
 "poster": "https://m.media-amazon.com/images/I/51PygwIXTIL._AC_UF894,1000_QL80_.jpg",
 "year": 1995
 },
@@ -138,7 +138,7 @@
 "length": "1h 56m",
 "director": "Robert Zemeckis",
 "country": "United States",
-"genre": "Adventure, Comedy, Sci-Fi",
+"genre": "Adventure",
 "poster": "https://www.themoviedb.org/t/p/original/A3g9ZGxMEX2nKxIvwwGqu1NJSWl.jpg",
 "year": 1985
 },
@@ -149,7 +149,7 @@
 "length": "1h 48m",
 "director": "Robert Zemeckis",
 "country": "United States",
-"genre": "Adventure, Comedy, Sci-Fi",
+"genre":  "Adventure",
 "poster": "https://i.ebayimg.com/images/g/AgAAAOSwYoxgSlqw/s-l1600.jpg",
 "year": 1989
 },
@@ -160,7 +160,7 @@
 "length": "1h 59m",
 "director": "Robert Zemeckis",
 "country": "United States",
-"genre": "Adventure, Comedy, Sci-Fi",
+"genre":  "Adventure",
 "poster": "https://m.media-amazon.com/images/I/81wxiurnt-L.jpg",
 "year": 1990
 },
@@ -171,7 +171,7 @@
 "length": "1h 21m",
 "director": "John Lasseter",
 "country": "United States",
-"genre": "Animation, Adventure, Comedy",
+"genre": "Animation",
 "poster": "https://lumiere-a.akamaihd.net/v1/images/p_toystory_19639_424d94a0.jpeg",
 "year": 1995
 },
@@ -182,7 +182,7 @@
 "length": "1h 32m",
 "director": "John Lasseter",
 "country": "United States",
-"genre": "Animation, Adventure, Comedy",
+"genre": "Animation",
 "poster": "https://lumiere-a.akamaihd.net/v1/images/p_toystory2_19639_4eca9113.jpeg",
 "year": 1999
 },
@@ -193,7 +193,7 @@
 "length": "1h 43m",
 "director": "Lee Unkrich",
 "country": "United States",
-"genre": "Animation, Adventure, Comedy",
+"genre": "Animation",
 "poster": "https://lumiere-a.akamaihd.net/v1/images/p_toystory3_19639_3c584e1f.jpeg",
 "year": 2010
 },
@@ -204,7 +204,7 @@
 "length": "2h 55m",
 "director": "Francis Ford Coppola",
 "country": "United States",
-"genre": "Crime, Drama",
+"genre": "Crime",
 "poster": "https://m.media-amazon.com/images/I/41YabeSI9NL._AC_.jpg",
 "year": 1972
 },
@@ -215,7 +215,7 @@
 "length": "3h 22m",
 "director": "Francis Ford Coppola",
 "country": "United States",
-"genre": "Crime, Drama",
+"genre": "Crime",
 "poster": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e9a102153356691.632de48582115.jpg",
 "year": 1974
 },
@@ -226,7 +226,7 @@
 "length": "2h 42m",
 "director": "Francis Ford Coppola",
 "country": "United States",
-"genre": "Crime, Drama",
+"genre": "Crime",
 "poster": "https://m.media-amazon.com/images/I/41KYQSW61YL._AC_UF894,1000_QL80_.jpg",
 "year": 1990
 },
@@ -237,7 +237,7 @@
 "length": "2h 22m",
 "director": "Gary Ross",
 "country": "United States",
-"genre": "Action, Adventure, Sci-Fi",
+"genre": "Sci-Fi",
 "poster": "https://m.media-amazon.com/images/M/MV5BMjA4NDg3NzYxMF5BMl5BanBnXkFtZTcwNTgyNzkyNw@@._V1_.jpg",
 "year": 2012
 },
@@ -248,7 +248,7 @@
 "length": "2h 26m",
 "director": "Francis Lawrence",
 "country": "United States",
-"genre": "Action, Adventure, Sci-Fi",
+"genre":  "Sci-Fi",
 "poster": "https://m.media-amazon.com/images/I/514Qine9DSL._AC_.jpg",
 "year": 2013
 },
@@ -259,7 +259,7 @@
 "length": "2h 3m",
 "director": "Francis Lawrence",
 "country": "United States",
-"genre": "Adventure, Sci-Fi",
+"genre": "Sci-Fi",
 "poster": "https://m.media-amazon.com/images/M/MV5BMTcxNDI2NDAzNl5BMl5BanBnXkFtZTgwODM3MTc2MjE@._V1_.jpg",
 "year": 2014
 },
@@ -270,7 +270,7 @@
 "length": "1h 38m",
 "director": "Krzysztof Kieślowski",
 "country": "France",
-"genre": "Drama, Music, Mystery",
+"genre": "Drama",
 "poster": "https://media.kellermandesign.com/2016/06/Three-Colours-Blue-1993-Krzysztof-Kieslowski-onesheet-eng.jpg",
 "year": 1993
 },
@@ -281,7 +281,7 @@
 "length": "1h 32m",
 "director": "Krzysztof Kieślowski",
 "country": "France",
-"genre": "Comedy, Drama",
+"genre":  "Drama",
 "poster": "https://upload.wikimedia.org/wikipedia/en/d/dd/White_Poster.jpg",
 "year": 1994
 },
@@ -292,7 +292,7 @@
 "length": "1h 39m",
 "director": "Krzysztof Kieślowski",
 "country": "France",
-"genre": "Drama, Mystery, Romance",
+"genre":  "Drama",
 "poster": "https://upload.wikimedia.org/wikipedia/en/0/0a/Three_Colors-Red.jpg",
 "year": 1994
 },
@@ -303,7 +303,7 @@
 "length": "1h 59m",
 "director": "Doug Liman",
 "country": "United States",
-"genre": "Action, Mystery, Thriller",
+"genre": "Action",
 "poster": "https://www.themoviedb.org/t/p/original/njQL3lYfyS4pyO8GgPzKdJVOu95.jpg",
 "year": 2002
 },
@@ -314,7 +314,7 @@
 "length": "1h 48m",
 "director": "Paul Greengrass",
 "country": "United States",
-"genre": "Action, Mystery, Thriller",
+"genre": "Action",
 "poster": "https://i.pinimg.com/originals/e6/38/38/e63838e0716c2b294a105d055b01f034.jpg",
 "year": 2004
 },
@@ -347,7 +347,7 @@
 "length": "1h 35m",
 "director": "Jay Roach",
 "country": "United States",
-"genre": "Comedy, Action, Adventure",
+"genre": "Comedy",
 "poster": "https://www.antikbar.co.uk/catalogue/images/PC1215_1_l.jpg",
 "year": 1999
 },
@@ -358,7 +358,7 @@
 "length": "1h 34m",
 "director": "Jay Roach",
 "country": "United States",
-"genre": "Comedy, Action, Crime",
+"genre": "Comedy",
 "poster": "https://m.media-amazon.com/images/I/51CRVQYKgYL._AC_UF894,1000_QL80_.jpg",
 "year": 2002
 },
@@ -369,7 +369,7 @@
 "length": "1h 44m",
 "director": "Stephen Herek",
 "country": "United States",
-"genre": "Comedy, Drama, Family",
+"genre": "Family",
 "poster": "https://i.ebayimg.com/images/g/iJEAAOSwKflgTERr/s-l500.jpg",
 "year": 1992
 },
@@ -380,7 +380,7 @@
 "length": "1h 46m",
 "director": "Sam Weisman",
 "country": "United States",
-"genre": "Comedy, Drama, Family",
+"genre": "Family",
 "poster": "https://m.media-amazon.com/images/I/51VG3kRGgWL._AC_UF894,1000_QL80_.jpg",
 "year": 1994
 },
@@ -391,7 +391,7 @@
 "length": "1h 44m",
 "director": "Robert Lieberman",
 "country": "United States",
-"genre": "Comedy, Drama, Family",
+"genre": "Family",
 "poster": "https://m.media-amazon.com/images/I/51YRMmLzMBL._AC_UF894,1000_QL80_.jpg",
 "year": 1996
 },
@@ -435,7 +435,7 @@
 "length": "1h 55m",
 "director": "Steven Spielberg",
 "country": "United States",
-"genre": "Action, Adventure",
+"genre": "Adventure",
 "poster": "https://m.media-amazon.com/images/I/81UOBSDQh0L._AC_UF894,1000_QL80_.jpg",
 "year": 1981
 },
@@ -446,7 +446,7 @@
 "length": "1h 58m",
 "director": "Steven Spielberg",
 "country": "United States",
-"genre": "Action, Adventure",
+"genre": "Adventure",
 "poster": "https://alternativemovieposters.com/wp-content/uploads/2022/05/ChrisTowner_Indy.jpg",
 "year": 1984
 },
@@ -457,7 +457,7 @@
 "length": "2h 7m",
 "director": "Steven Spielberg",
 "country": "United States",
-"genre": "Action, Adventure",
+"genre": "Adventure",
 "poster": "https://cms-assets.webediamovies.pro/production/241/cb122912b6cc393f6b81f2dd605b6f00.jpg",
 "year": 1989
 },
@@ -468,7 +468,7 @@
 "length": "1h 57m",
 "director": "John Lasseter",
 "country": "United States",
-"genre": "Animation, Adventure, Comedy",
+"genre": "Animation",
 "poster": "https://i.etsystatic.com/20512669/r/il/53bfc5/4087489196/il_570xN.4087489196_sf52.jpg",
 "year": 2006
 },
@@ -479,7 +479,7 @@
 "length": "1h 46m",
 "director": "John Lasseter",
 "country": "United States",
-"genre": "Animation, Adventure, Comedy",
+"genre": "Animation",
 "poster": "https://m.media-amazon.com/images/I/51cSvPHOOxL._AC_UF894,1000_QL80_.jpg",
 "year": 2011
 },
@@ -490,7 +490,7 @@
 "length": "1h 42m",
 "director": "Brian Fee",
 "country": "United States",
-"genre": "Animation, Adventure, Comedy",
+"genre": "Animation",
 "poster": "https://lumiere-a.akamaihd.net/v1/images/p_cars3_19643_3ab8aca1.jpeg",
 "year": 2017
 }
